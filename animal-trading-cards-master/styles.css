@@ -1,0 +1,58 @@
+html {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+body {
+    background-color: rgb(92, 60, 60);
+}
+
+
+.gelada_card {
+    border: 1px solid;
+    width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(189, 26, 26);
+    background-color: green;
+}
+
+
+.gelada_title {
+    font-family: Akronim;
+    font-weight: bold
+}
+
+
+.gelada_picture {
+    width: 300px;
+    height: 200px;
+}
+
+
+.gelada_card_info {
+    font-size: 15px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.gelada_fact {
+        text-align: center;
+        font-style: italic;        
+}
+
+
+.gelada_list {
+    list-style-type: none;
+    padding: 0px;
+}
+
+
+.gelada_label {
+    font-weight: bold;
+}
+
+
+.gelada_description {
+        text-align: justify;
+}
